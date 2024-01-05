@@ -3,8 +3,6 @@
 ## Summary
 This project involves coding a C library that contains a variety of general-purpose functions essential for your programs. The library, named `libft`, will serve as a useful tool for future C school assignments.
 
-- Version: 16
-
 ## Contents
 I. [Introduction](#introduction)  
 II. [Common Instructions](#common-instructions)  
