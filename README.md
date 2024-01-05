@@ -153,7 +153,6 @@ Extend the library by manipulating linked lists. Use the provided structure `t_l
   - Prototype: `t_list *ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))`
   - Description: Iterates the list `lst` and applies the function `f` on the content of each node. Creates a new list resulting from the successive applications of `f`.
 
-...
 
 ## V. Submission and Peer-Evaluation
 Submit your work to the assigned git repository. Only content in the git repository will be graded. Follow naming conventions for files and ensure they are placed at the root of the repository.
