@@ -48,7 +48,22 @@ Implement functions with `ft_` prefix equivalent to standard libc functions.
 - bzero
 - memcpy
 - memmove
-- ...
+- strlcpy
+- strlcat
+- toupper
+- tolower
+- strchr
+- strrchr
+- strncmp
+- memchr
+- memcmp
+- strnstr
+- atoi
+
+In order to implement the two following functions, you will use `malloc()`:
+
+- calloc
+- strdup 
 
 ### III.3 Part 2 - Additional Functions
 Implement the following functions:
@@ -97,8 +112,6 @@ Implement the following functions:
 - **ft_putnbr_fd**
   - Prototype: `void ft_putnbr_fd(int n, int fd)`
   - Description: Outputs the integer `n` to the given file descriptor.
-
-...
 
 ## IV. Bonus Part
 Extend the library by manipulating linked lists. Use the provided structure `t_list`.
